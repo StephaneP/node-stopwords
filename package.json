@@ -1,0 +1,24 @@
+{
+  "name": "node-stopwords",
+  "version": "1.0.0",
+  "description": "Stopwords in multiple languages",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StephaneP/node-stopwords.git"
+  },
+  "keywords": [
+    "stop",
+    "words",
+    "english",
+    "french",
+    "spanish",
+    "international"
+  ],
+  "author": "Stephane Paul <stephane.paul@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StephaneP/node-stopwords/issues"
+  },
+  "homepage": "https://github.com/StephaneP/node-stopwords"
+}
